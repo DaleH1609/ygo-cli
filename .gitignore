@@ -1,0 +1,9 @@
+# Binaries
+ygo-cli
+*.exe
+
+# Mac junk
+.DS_Store
+
+# Go test cache
+*.test
